@@ -1,0 +1,12 @@
+alist:
+  strm:
+    alist-server-url:
+    alist-strm-url:
+    alist-token:
+    cron:
+    scan-basic-path:
+    output-path:
+    strm-suffix-list:
+      - mp4
+      - mkv
+      - avi
